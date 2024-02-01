@@ -9,6 +9,9 @@ public class Main {
 
     // logo added
 
+    // add more things
+    //added footer
+
 
     }
 
